@@ -87,8 +87,8 @@
       },
       {
         "name": "Chimney Flashing Repair",
-        "slug": "chimney-flashing-repair",
-        "url": "/services/chimney-flashing-repair",
+        "slug": "chimney-flashing-repair.html",
+        "url": "/services/chimney-flashing-repair.html",
         "content": null
       },
       {
@@ -129,8 +129,8 @@
       },
       {
         "name": "24-7 Emergency Roofing Services",
-        "slug": "24-7-emergency-roofing-services",
-        "url": "/services/24-7-emergency-roofing-services",
+        "slug": "24-7-emergency-roofing-services.html",
+        "url": "/services/24-7-emergency-roofing-services.html",
         "content": null
       }
     ]
@@ -1226,14 +1226,14 @@
         "/services/shingle-replacement-repair",
         "/services/flat-roof-repair",
         "/services/gutter-repair-cleaning",
-        "/services/chimney-flashing-repair",
+        "/services/chimney-flashing-repair.html",
         "/services/skylight-leak-repair",
         "/services/full-roof-replacement",
         "/services/residential-roofing-services",
         "/services/commercial-roof-repair",
         "/services/preventative-roof-maintenance",
         "/services/free-roof-inspections",
-        "/services/24-7-emergency-roofing-services"
+        "/services/24-7-emergency-roofing-services.html"
       ],
       "locations": [
         "/service-area/scarsdale-10583",
