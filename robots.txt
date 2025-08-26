@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://roofrepairscarsdaleny.pages.dev/sitemap.xml
+Sitemap: https://roofrepairscarsdaleny.vercel.app/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
